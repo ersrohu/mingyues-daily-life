@@ -4,3 +4,6 @@ A novel is licensed under [CreativeCommons-Attribution-NonCommercial-ShareAlike 
 You also can contact author with the email below:
 
 <mailto:3297957467@qq.com>
+## Content
+
+*Please wait for me soon, I'm copying the novel to here...*
