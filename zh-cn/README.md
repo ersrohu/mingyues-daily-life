@@ -1,3 +1,8 @@
+ <style type="text/css">
+    p {
+      text-indent:2em;
+    }
+ </style>
 # 明月的小说合集
 
 一个以[创作共享署名许可-非商业性使用-相同方式共享 (CC-BY-NC-SA 3.0 CN) ](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)授权的小说，原作者不是我，他是**SmallYT_29**。他现在还没有GitHub账号呢。
