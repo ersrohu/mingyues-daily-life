@@ -5,4 +5,4 @@ Mingyue drove to the “Peach Blossom Manor” and parked the car. Then he walke
 
 “Um? Is it that Porsche? He wants to go ‘Peach Blossom Manor’, too?” But Mingyue didn’t care about it, too, then he went into the Box 1340 and got together with his colleagues. When he was walking into the box, he saw the owner of the Porsche, but he didn’t know him then.
 
-> This is the first Chapter [Next Chapter→](mingyues-daily-life/part1/chapter2.md)
+> This is the first Chapter [Next Chapter→](/part1/chapter2.md)
