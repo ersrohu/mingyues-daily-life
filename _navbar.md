@@ -1,4 +1,4 @@
 * Translations
 
-  * [:us: English](.)
-  * [:cn: 中文](./zh-cn/)
+  * [:us: English](/)
+  * [:cn: 中文](/zh-cn/)
