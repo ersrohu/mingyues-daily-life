@@ -26,4 +26,4 @@
 
 &#x3000;&#x3000;“哦，好的！
 
-[←上一篇](/zh-cn/part1/chapter1.md)
+> [←上一篇](/zh-cn/part1/chapter1.md)
