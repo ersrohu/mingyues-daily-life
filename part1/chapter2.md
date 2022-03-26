@@ -1,6 +1,6 @@
 # Chapter 2
 
-At the morning of the next day, Mingyue go to the drink shop near the community and buy a glass of lemon tea. Today is weekend, so Mingyue take the phone and order a takeout. (Inner OS of Mingyue : That’s very good!)
+At the morning of the next day, Mingyue go to the drink shop near the community and buy a glass of lemon tea. Today is weekend, so Mingyue take the phone and order a takeout. (Inner OS of Mingyue[^1] : That’s very good!)
 
 Then he comes to his room, open his laptop and open Minecraft.
 
@@ -30,4 +30,5 @@ Mingyue ate the takeout quickly, then he looked at the news and to play games.
 
 “Of course, I can.”
 
+[^1]:A way to show what the person is thinking in this novel.
 > [←Previous Chapter](/part1/chapter1.md) 
