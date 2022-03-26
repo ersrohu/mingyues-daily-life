@@ -1,3 +1,4 @@
 * Part 1
 
   * [Chapter 1](/part1/chapter1.md)
+  * [Chapter 2](/part1/chapter2.md)
