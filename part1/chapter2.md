@@ -30,5 +30,5 @@ Mingyue ate the takeout quickly, then he looked at the news and to play games.
 
 “Of course, I can.”
 
-[^1]:A way to show what the person is thinking in this novel.
+[^1]: A way to show what the person is thinking in this novel.
 > [←Previous Chapter](/part1/chapter1.md) 
