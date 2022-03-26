@@ -29,3 +29,5 @@ Mingyue ate the takeout quickly, then he looked at the news and to play games.
 “I want to go out for a period, can you take care of my baby?”
 
 “Of course, I can.”
+
+> [←Previous Chapter] 
