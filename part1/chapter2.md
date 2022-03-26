@@ -30,4 +30,4 @@ Mingyue ate the takeout quickly, then he looked at the news and to play games.
 
 “Of course, I can.”
 
-> [←Previous Chapter] 
+> [←Previous Chapter](/part1/chapter1.md) 
