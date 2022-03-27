@@ -34,4 +34,4 @@ Mingyue ate the takeout quickly, then he looked at the news and to play games.
 
 [1]: A way to show what the person is thinking in this novel.
 
-> [←Previous Chapter](/part1/chapter1.md) 
+> [←Previous Chapter](/part1/chapter1.md)  [Next Chapter→](/part1/chapter3.md) 
