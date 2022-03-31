@@ -5,3 +5,5 @@
   * [第三章](/zh-cn/part1/chapter3.md)
   * [第四章](/zh-cn/part1/chapter4.md)
   * [第五章](/zh-cn/part1/chapter5.md)
+  * [第六章](/zh-cn/part1/chapter6.md)
+
