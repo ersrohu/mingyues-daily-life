@@ -30,4 +30,5 @@ Mingyue went out from elevator, then he took a taxi and go to hotel had his meal
 
 Later, Mingyue go back to Xitai, he didn’t stay more time in Xiaoyun. Because Mingyue think that he didn’t need to survey them, and the director is not good now. (Mingyue Inner OS: I must convene staff first! They’re still good, at least their original intention is good.)
 
->[←Previous Chapter](/part1/chapter3.md)
+> [←Previous Chapter](/part1/chapter3.md)  [Next Chapter→](/part1/chapter5.md)
+
