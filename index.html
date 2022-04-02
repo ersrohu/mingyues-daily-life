@@ -17,6 +17,11 @@
 <body>
   <div id="app"></div>
   <script>
+     // Set html "lang" attribute based on URL
+      var lang = location.hash.match(/#\/zh-cn\//);
+      if (lang) {
+        document.documentElement.setAttribute('lang', lang[1]);
+    }
     window.$docsify = {
       name: 'Mingyue\'s Daily Life',
       repo: 'https://github.com/ersrohu/mingyues-daily-life/blob/main/index.html',
@@ -25,13 +30,7 @@
       subMaxLevel: 2,
     };
   </script>
-  <script>
-        // Set html "lang" attribute based on URL
-      var lang = location.hash.match(/#\/zh-cn\//);
-      if (lang) {
-        document.documentElement.setAttribute('lang', lang[1]);
-      }
-  </script>
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
