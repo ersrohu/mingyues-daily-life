@@ -60,4 +60,4 @@ Then the waiter starts her affectionate introduction…
 
 When he arrived home, he thinks, “I’ll buy the car and present it to Taohong. And there is a large meal from Lingxiao, that’s perfect.” Then he jumps excitedly.
 
-> [←Previous Chapter](/part1/chapter4.md)
+> [←Previous Chapter](/part1/chapter4.md) [Next Chapter→](/part1/chapter6.md)
