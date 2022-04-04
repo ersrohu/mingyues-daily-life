@@ -54,4 +54,4 @@
 
 &#x3000;&#x3000;“嗯，可以！”服务员自信地回答。
 
-> [←上一章](/zh-cn/part1/chapter5.md)
+> [←上一章](/zh-cn/part1/chapter5.md)  [下一章→](/zh-cn/part1/chapter7.md)
