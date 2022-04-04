@@ -6,4 +6,4 @@
   * [第四章](/zh-cn/part1/chapter4.md)
   * [第五章](/zh-cn/part1/chapter5.md)
   * [第六章](/zh-cn/part1/chapter6.md)
-
+  * [第七章](/zh-cn/part1/chapter7.md)
