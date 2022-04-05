@@ -52,4 +52,4 @@ After the phone hangs up, Mingyue drive his Hongqi H9 luxury car and go to the 4
 
 “Of course!” Answered waiter confidently.
 
-> [←Previous Chapter](/part1/chapter5.md)
+> [←Previous Chapter](/part1/chapter5.md)  [Next Chapter→](/part1/chapter7.md)
