@@ -7,3 +7,6 @@
   * [第五章](/zh-cn/part1/chapter5.md)
   * [第六章](/zh-cn/part1/chapter6.md)
   * [第七章](/zh-cn/part1/chapter7.md)
+
+* 第二部分
+  * [为什么我们遗失了第二部分？](/zh-cn/part2/missing.md) 
