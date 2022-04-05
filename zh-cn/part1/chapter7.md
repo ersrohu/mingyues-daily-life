@@ -34,4 +34,4 @@
 
 &#x3000;&#x3000;说罢，他们开始了他们三人的美食旅行。
 
-> [←上一章](/zh-cn/part1/chapter6.md)
+> [←上一章](/zh-cn/part1/chapter6.md)  [下一章→](/zh-cn/part2/missing.md)
