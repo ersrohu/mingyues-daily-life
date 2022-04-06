@@ -7,3 +7,7 @@
   * [Chapter 5](/part1/chapter5.md)
   * [Chapter 6](/part1/chapter6.md)
   * [Chapter 7](/part1/chapter7.md)
+
+* Part 2
+  
+  * [Why have we lost part 2?](/part2/missing.md)
