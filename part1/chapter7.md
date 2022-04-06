@@ -34,4 +34,4 @@ Mingyue and Lingxiao see the Taohong is enchanted, then they smell it.
 
 Then they start to eat their meal.
 
-> [←Previous Chapter](/part1/chapter6.md)
+> [←Previous Chapter](/part1/chapter6.md)  [Next Chapter→](/part2/missing.md)
