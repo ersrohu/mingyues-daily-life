@@ -11,3 +11,6 @@
 * Part 2
   
   * [Why have we lost part 2?](/part2/missing.md)
+
+* Extra Stories About Lingxiao
+  * [Chapter 1](/ex1/chapter1.md)
