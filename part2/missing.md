@@ -6,4 +6,4 @@ However, portability and ease of loss are proportional, so he's lost the noteboo
 
 Sure, we will upload them if we find them, wait for us, please.
 
-> [←Previous Chapter](/part1/chapter7.md)
+> [←Previous Chapter](/part1/chapter7.md)  [←Next Chapter](/ex1/chapter1.md)
