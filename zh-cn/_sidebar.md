@@ -10,3 +10,6 @@
 
 * 第二部分
   * [为什么我们遗失了第二部分？](/zh-cn/part2/missing.md) 
+
+* 番外一之凌霄篇
+  * [第一章](/zh-cn/ex1/chapter1.md) 
