@@ -6,4 +6,4 @@
 
 &#x3000;&#x3000;当然，如果我们找到了这个小本本，我们一定会上载到这里的。
 
-> [←上一章](/zh-cn/part1/chapter7.md)
+> [←上一章](/zh-cn/part1/chapter7.md)  [下一章→](/zh-cn/ex1/chapter1.md)
