@@ -15,3 +15,4 @@
   * [第一章](/zh-cn/ex1/chapter1.md) 
   * [第二章](/zh-cn/ex1/chapter2.md) 
   * [第三章](/zh-cn/ex1/chapter3.md) 
+  * [第四章](/zh-cn/ex1/chapter4.md)
