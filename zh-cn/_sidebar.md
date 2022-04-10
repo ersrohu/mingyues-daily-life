@@ -19,3 +19,4 @@
 
 * 番外二之桃红篇
   * [第一章](/zh-cn/ex2/chapter1.md) 
+  * [第二章](/zh-cn/ex2/chapter2.md) 
