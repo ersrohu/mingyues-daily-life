@@ -34,4 +34,4 @@ Suddenly, Lingxiao phone Mingyue again.
 
 “Toot…” The phone hangs up.
 
-> [←Previous Chapter](/ex1/chapter1.md)
+> [←Previous Chapter](/ex1/chapter1.md)  [Next Chapter→](/ex1/chapter3.md)
