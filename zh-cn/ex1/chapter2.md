@@ -34,4 +34,4 @@
 
 &#x3000;&#x3000;“嘟……”电话挂断了。
 
-> [←上一章](/zh-cn/ex1/chapter1.md)
+> [←上一章](/zh-cn/ex1/chapter1.md)  [下一章→](/zh-cn/ex1/chapter3.md)
