@@ -38,4 +38,4 @@
 
 &#x3000;&#x3000;“先坐先坐。”
 
-> [←上一章](/zh-cn/ex1/chapter2.md)
+> [←上一章](/zh-cn/ex1/chapter2.md)  [下一章→](/zh-cn/ex1/chapter4.md)
