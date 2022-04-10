@@ -54,4 +54,4 @@ Some minutes later, Mingyue reply Lingxiao finally.
 
 “Yeah!” Lingxiao phone to Taohong happily.
 
-> [←Previous Chapter](/part2/missing.md)
+> [←Previous Chapter](/part2/missing.md)  [Next Chapter→](/ex1/chapter2.md)
