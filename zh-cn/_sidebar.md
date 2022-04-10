@@ -16,3 +16,6 @@
   * [第二章](/zh-cn/ex1/chapter2.md) 
   * [第三章](/zh-cn/ex1/chapter3.md) 
   * [第四章](/zh-cn/ex1/chapter4.md)
+
+* 番外二之桃红篇
+  * [第一章](/zh-cn/ex2/chapter1.md) 
