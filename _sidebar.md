@@ -14,3 +14,4 @@
 
 * Extra Stories About Lingxiao
   * [Chapter 1](/ex1/chapter1.md)
+  * [Chapter 2](/ex1/chapter2.md)
