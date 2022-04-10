@@ -50,7 +50,7 @@ Mingyue go straight to the Haval F7X for display and try to drive it.”
 
 Then the waiter starts her affectionate introduction…
 
-“I think that you will present someone this car, yes? I know it. You chose it suits everybody to drive! Its performance is not better than other SUVs, but its performance is better than cars, absolutely! And it’s light SUV. There’s special offer of it, you can buy it fully for 120 thousand *yuan*! Very affordable! Well, gentleman, buy it now!”
+“I think that you will present someone this car, yes? I know it. You chose it suits everybody to drive! Its performance is not better than other SUVs, but its performance is better than cars, absolutely! And it’s light SUV. There’s special offer of it, you can buy it fully for 120 thousand *yuan*[^1]! Very affordable! Well, gentleman, buy it now!”
 
 “Uh, let me consider it, storage it for me first! I’ll get it in about some days.” says Mingyue mysteriously.
 
@@ -59,5 +59,9 @@ Then the waiter starts her affectionate introduction…
 “Bye!” says Mingyue. Then he drives his Hongqi H9 and leave the 4S Shop.
 
 When he arrived home, he thinks, “I’ll buy the car and present it to Taohong. And there is a large meal from Lingxiao, that’s perfect.” Then he jumps excitedly.
+
+## Footnotes
+
+[^1]: Approximately $18850, £17150, €17130.
 
 > [←Previous Chapter](/part1/chapter4.md) [Next Chapter→](/part1/chapter6.md)
