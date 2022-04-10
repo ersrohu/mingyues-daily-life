@@ -96,4 +96,4 @@ Lingxiao (Male): A helpful director and lives a flat with Taohong.
 
 [^7]: Approximately $470, £360, €430.
 
-> [←Previous Chapter](/ex1/chapter3.md)
+> [←Previous Chapter](/ex1/chapter3.md)  [Next Chapter→](/ex2/chapter1.md)
