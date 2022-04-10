@@ -80,4 +80,4 @@
 
 &#x3000;&#x3000;凌霄（男）：乐于助人的主任，并且与桃红合租。
 
-> [←上一章](/zh-cn/ex1/chapter3.md)
+> [←上一章](/zh-cn/ex1/chapter3.md)  [下一章→](/zh-cn/ex2/chapter1.md)
