@@ -50,7 +50,7 @@ Some minutes later, Mingyue reply Lingxiao finally.
 
 “Bye!”
 
-“Toot…” The phone hangs up. (Lingxiao Inner OS: that’s good, I can go out for a meal again! Let me phone Taohong first!”)
+“Toot…” The phone hangs up. (Lingxiao Inner OS: that’s good, I can go out for a meal again! Let me phone Taohong first!)
 
 “Yeah!” Lingxiao phone to Taohong happily.
 
