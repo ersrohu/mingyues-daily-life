@@ -83,10 +83,17 @@ Lingxiao (Male): A helpful director and lives a flat with Taohong.
 ## Footnotes
 
 [^1]: Approximately $13.99, £10.59, €12.69.
+
 [^2]: Approximately $26.59, £20.10, €24.09.
+
 [^3]: Approximately $62.9, £47.59, €57.
+
 [^4]: Approximately $315, £237.9, €285.
+
 [^5]: Approximately $88.38, £66.85, €80.
+
 [^6]: Approximately $550, £420, €500.
+
 [^7]: Approximately $470, £360, €430.
+
 > [←Previous Chapter](/ex1/chapter3.md)
