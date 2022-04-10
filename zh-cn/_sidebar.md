@@ -13,3 +13,4 @@
 
 * 番外一之凌霄篇
   * [第一章](/zh-cn/ex1/chapter1.md) 
+  * [第二章](/zh-cn/ex1/chapter2.md) 
