@@ -21,3 +21,4 @@
 
 * Extra Stories About Taohong
   * [Chapter 1](/ex2/chapter1.md)
+  * [Chapter 2](/ex2/chapter2.md)
