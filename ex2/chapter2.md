@@ -53,4 +53,4 @@ When Mingyue is driving, they meet the Porsche 911 drives a speed of 100 kilomet
 
 “Well, why does he come here again?” Says Mingyue.
 
-> [←Previous Chapter](/ex2/chapter1.md)
+> [←Previous Chapter](/ex2/chapter1.md)  [Next Chapter→](/detective/part1/chapter1.md)
