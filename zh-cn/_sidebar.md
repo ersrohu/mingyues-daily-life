@@ -20,3 +20,6 @@
 * 番外二之桃红篇
   * [第一章](/zh-cn/ex2/chapter1.md) 
   * [第二章](/zh-cn/ex2/chapter2.md) 
+
+* 明月的探案笔记
+  * [吃饭](/zh-cn/detective/part1/chapter1.md) 
