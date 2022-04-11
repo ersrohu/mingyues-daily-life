@@ -54,4 +54,4 @@
 
 &#x3000;&#x3000;“额，怎么又是他？”明月自言自语。
 
-> [←上一章](/zh-cn/ex2/chapter1.md)
+> [←上一章](/zh-cn/ex2/chapter1.md)  [下一章→](/zh-cn/detective/part1/chapter1.md)
