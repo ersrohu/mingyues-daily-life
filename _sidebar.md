@@ -20,5 +20,12 @@
   * [Chapter 4](/ex1/chapter4.md)
 
 * Extra Stories About Taohong
+
   * [Chapter 1](/ex2/chapter1.md)
   * [Chapter 2](/ex2/chapter2.md)
+
+* Mingyue's Detective Notes
+
+  * Team H
+
+    * [Having Meal](/detective/part1/chapter1.md)
