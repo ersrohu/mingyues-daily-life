@@ -22,4 +22,5 @@
   * [第二章](/zh-cn/ex2/chapter2.md) 
 
 * 明月的探案笔记
-  * [吃饭](/zh-cn/detective/part1/chapter1.md) 
+  * H团队 
+    * [吃饭](/zh-cn/detective/part1/chapter1.md) 
