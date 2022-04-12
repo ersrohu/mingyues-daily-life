@@ -24,7 +24,7 @@ Then Mingyue go out and get on the elevator to -1 floor. And go to parking space
 
 40 minutes later, Mingyue arrive the 4S shop.
 
-“Waiter, do you still sell Haval F7X SUV?”
+“Waitress, do you still sell Haval F7X SUV?”
 
 “Wait, let me ask our manager.”
 
@@ -32,7 +32,7 @@ Mingyue sit down on the chair first, then look around.
 
 “That… Can I go upon the car and try to drive it?” asked Mingyue.
 
-“Of course, be careful!” says waiter.”
+“Of course, be careful!” says waitress.”
 
 Mingyue go straight to the Haval F7X for display and try to drive it.”
 
@@ -48,13 +48,13 @@ Mingyue go straight to the Haval F7X for display and try to drive it.”
 
 “Of course!”
 
-Then the waiter starts her affectionate introduction…
+Then the waitress starts her affectionate introduction…
 
 “I think that you will present someone this car, yes? I know it. You chose it suits everybody to drive! Its performance is not better than other SUVs, but its performance is better than cars, absolutely! And it’s light SUV. There’s special offer of it, you can buy it fully for 120 thousand *yuan*[^1]! Very affordable! Well, gentleman, buy it now!”
 
 “Uh, let me consider it, storage it for me first! I’ll get it in about some days.” says Mingyue mysteriously.
 
-“Well, bye, gentleman.” says the waiter and she make a gesture of “thank you for your patronage and welcome” to visit next time. She is not unhappy.
+“Well, bye, gentleman.” says the waitress and she make a gesture of “thank you for your patronage and welcome” to visit next time. She is not unhappy.
 
 “Bye!” says Mingyue. Then he drives his Hongqi H9 and leave the 4S Shop.
 
