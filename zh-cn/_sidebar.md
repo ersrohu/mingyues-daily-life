@@ -25,3 +25,4 @@
   * H团队
 
     * [吃饭](/zh-cn/detective/part1/chapter1.md) 
+    * [审讯](/zh-cn/detective/part1/chapter2.md) 
