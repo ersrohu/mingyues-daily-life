@@ -26,7 +26,7 @@ Suddenly, Mingyue seems think something, then he phones Lingxiao again.
 
 After the phone hangs up, Mingyue drive his Hongqi H9 luxury car and go to the 4S shop at West Loop Road.
 
-“Ah, gentleman, welcome!” When Mingyue come in, the waiter rush to him hospitality.
+“Ah, gentleman, welcome!” When Mingyue come in, the waitress rush to him hospitality.
 
 “Ah? Just for waiting me?” Mingyue has a lot of questions.
 
@@ -34,7 +34,7 @@ After the phone hangs up, Mingyue drive his Hongqi H9 luxury car and go to the 4
 
 “Really?” Mingyue doesn’t believe it.
 
-“Or else?” The waiter seems want to make formality.
+“Or else?” The waitress seems want to make formality.
 
 “Yeah!” Mingyue go to make formality at reception excitedly.
 
@@ -50,6 +50,6 @@ After the phone hangs up, Mingyue drive his Hongqi H9 luxury car and go to the 4
 
 “Yes. Can you deliver the car to there at half past nine at tomorrow night?”
 
-“Of course!” Answered waiter confidently.
+“Of course!” Answered waitress confidently.
 
 > [←Previous Chapter](/part1/chapter5.md)  [Next Chapter→](/part1/chapter7.md)
