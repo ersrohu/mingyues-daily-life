@@ -6,23 +6,23 @@ Lingxiao and Taohong phone Mingyue.
 
 “Hello Mingyue, which table are you at?”
 
-“I’m in box 3, you just tell waiter “Table 21”.
+“I’m in box 3, you just tell waitress “Table 21”.
 
 “Oh.”
 
 “I’m waiting for you, Lingxiao.”
 
-Lingxiao goes and to ask the waiter.”
+Lingxiao goes and to ask the waitress.”
 
-“Waiter, table 21.”
+“Waitress, table 21.”
 
 “Of course.”
 
-The waiter leads them go into table 21.
+The waitress leads them go into table 21.
 
 “Come in, please. Oh, I need to receive your tickets.”
 
-After Mingyue and Taohong give the tickets to waiter than they open the door and come in.
+After Mingyue and Taohong give the tickets to waitress than they open the door and come in.
 
 “Hey! Mingyue!”
 
