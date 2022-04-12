@@ -18,7 +18,7 @@ The chaffy dish has color, fragrance, and flavor, when one sees it then who want
 
 “OK!” Says Mingyue.
 
-“Let me tell the waiter and change the chaffy dish to double-flavor chaffy dish.” Says Mingyue, then he goes and tell waiter. (Taohong Inner OS: Does Mingyue want to use our money to pay? A normal chaffy dish needs 86 *yuan*[^1], a double-flavor chaffy dish is 169 *yuan*[^2] ! Well, it’s so horror!)
+“Let me tell the waitress and change the chaffy dish to double-flavor chaffy dish.” Says Mingyue, then he goes and tell waitress. (Taohong Inner OS: Does Mingyue want to use our money to pay? A normal chaffy dish needs 86 *yuan*[^1], a double-flavor chaffy dish is 169 *yuan*[^2] ! Well, it’s so horror!)
 
 Taohong ask Lingxiao with doubt, “Lingxiao, is Mingyue reliable? I think that he wants to let me pay! We seem to order dishes for altogether about 400 *yuan*[^3] !”
 
@@ -26,7 +26,7 @@ Taohong ask Lingxiao with doubt, “Lingxiao, is Mingyue reliable? I think that 
 
 “Ooh…”
 
-Mingyue come in now. Behind Mingyue follow a waiter. The waiter changes the chaffy dish skilled: She put the double-flavored chaffy dish on the table first, then she takes off the normal chaffy dish, and put it on the serving cart, then she takes the double-flavored chaffy dish to the groove on the center of table, finally, she pushes the serving cart and go out the door.
+Mingyue come in now. Behind Mingyue follow a waitress. The waitress changes the chaffy dish skilled: She put the double-flavored chaffy dish on the table first, then she takes off the normal chaffy dish, and put it on the serving cart, then she takes the double-flavored chaffy dish to the groove on the center of table, finally, she pushes the serving cart and go out the door.
 
 “I’m sorry, I let you wait for a long time.” Says Mingyue, he looks guilty.
 
