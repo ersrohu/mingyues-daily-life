@@ -4,7 +4,7 @@ At the night of Taohong’s birthday, both Mingyue and Lingxiao come to here tog
 
 When Mingyue know that they want to have the meal at there then he phones to 4S shop. But there’s luck in misfortune which is the 4S shop didn’t deliver the car to near the Guicheng Community, and the restaurant is at near the 4S shop, maybe just some kilometers.
 
-“Is the waiter? I want to change the address.”
+“Is the waitress? I want to change the address.”
 
 “Of course! Where do you want to change?”
 
@@ -20,7 +20,7 @@ When Mingyue know that they want to have the meal at there then he phones to 4S 
 
 “Yeah, let’s go!” While Mingyue is observing that Taohong is talking with Lingxiao, he is thinking, “When the Taohong finish the meal, she will be very happy, and there’s a new car, that’s perfect!”
 
-“The dish comes, it’s the lemon duck. Enjoy the meal!” The waiter serves the dish. “Wow! It looks delicious!” Says Taohong excitedly. Look at her appearance, her eye closes like a line, and she shakes her head. There also is a dimple on her face.
+“The dish comes, it’s the lemon duck. Enjoy the meal!” The waitress serves the dish. “Wow! It looks delicious!” Says Taohong excitedly. Look at her appearance, her eye closes like a line, and she shakes her head. There also is a dimple on her face.
 
 Mingyue and Lingxiao see the Taohong is enchanted, then they smell it. 
 
