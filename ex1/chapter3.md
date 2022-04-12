@@ -38,4 +38,4 @@ After Mingyue and Taohong give the tickets to waitress than they open the door a
 
 “Sit down, please!”
 
-> [←Previous Chapter](/ex1/chapter2.md)  [Next Chapter→](/ex1/chapter2.md)
+> [←Previous Chapter](/ex1/chapter2.md)  [Next Chapter→](/ex1/chapter4.md)
