@@ -28,4 +28,4 @@ When the waiter wants to get away from here, Mingyue arrest him and handcuffs hi
 
 “This is a basic behavior you shouldn’t be surprised. Well, I will investigate him.”
 
-> [←Previous Chapter](/ex2/chapter2.md)
+> [←Previous Chapter](/ex2/chapter2.md)  [Next Chapter→](/detective/part1/chapter2.md)
