@@ -30,4 +30,4 @@
 
 &#x3000;&#x3000;“基本操作，不必震惊。得了，不说了，我去审讯他了。”
 
-> [←上一章](/zh-cn/ex2/chapter2.md)  [下一章→](/zh-cn/detective/chapter2.md)
+> [←上一章](/zh-cn/ex2/chapter2.md)  [下一章→](/zh-cn/detective/part1/chapter2.md)
