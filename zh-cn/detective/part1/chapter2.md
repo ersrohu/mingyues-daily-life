@@ -26,4 +26,4 @@
 
 &#x3000;&#x3000;“反正这件事肯定是不能全局召开讨论，不然会让那个人藏得更深。先调查一下先吧，看一下能不能找得到。”
 
-> [←上一章](/zh-cn/detective/part1/chapter1.md)
+> [←上一章](/zh-cn/detective/part1/chapter1.md)  [下一章→](/zh-cn/detective/part1/chapter3.md)
