@@ -26,4 +26,4 @@ A long time later, the judge declares, “Now Xie Xun is sentenced to two years,
 
 “We can’t discuss this thing all police station, anyway, else we will let the person hide deeper. Just investigate it first, let me see what I can find.”
 
-> [←Previous Chapter](/detective/part1/chapter1.md)
+> [←Previous Chapter](/detective/part1/chapter1.md)  [Next Chapter→](/detective/part1/chapter3.md)
