@@ -29,3 +29,4 @@
   * Team H
 
     * [Having Meal](/detective/part1/chapter1.md)
+    * [Interrogation](/detective/part1/chapter2.md)
