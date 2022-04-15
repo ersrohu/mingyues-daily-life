@@ -30,4 +30,4 @@
 
 &#x3000;&#x3000;可明月到了凌霄家，门微微地掩着。他一进门，却发现凌霄家里一片狼藉，凌霄一家人都躲进了家里的大衣橱里，瑟瑟发抖。明月一拉开衣柜门——
 
-> [←上一章](/zh-cn/detective/part1/chapter2.md)
+> [←上一章](/zh-cn/detective/part1/chapter2.md)  [下一章→](/zh-cn/detective/part1/chapter4.md)
