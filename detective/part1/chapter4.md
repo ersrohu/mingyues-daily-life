@@ -22,4 +22,4 @@ A few moments later, Lingxiao’s family are calm, they tell Mingyue what happen
 
 “I must leave now, I think that we cannot contact each other until this case ends, bye!” Says Mingyue and he opens the door to leave. However, when he is leaving, he turns back, then he sees an evil smile made by Taohong.
 
-> [←Previous Chapter](/detective/part1/chapter3.md)
+> [←Previous Chapter](/detective/part1/chapter3.md)  [Next Chapter→](/detective/part1/chapter5.md)
