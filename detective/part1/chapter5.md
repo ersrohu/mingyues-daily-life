@@ -30,7 +30,7 @@ When Taohong is put in the prison, she still makes an evil smile, again.
 
 ## Author's Words
 
-This theme, Team H, it ends up here, please look forward to next case.
+This theme, *Team H*, it ends up here, please look forward to next case.
 
 Sure, I’ll make more themes and let you want to read them, believe me, everyone!
 
