@@ -20,4 +20,4 @@
 
 &#x3000;&#x3000;夜间的路，几乎没有人，但是那昏暗的路灯又让人昏昏欲睡，可明月却心神不安，他怀疑这次又是“H团队”所为……
 
-> [←上一章](/zh-cn/detective/part1/chapter5.md)
+> [←上一章](/zh-cn/detective/part1/chapter5.md)  [下一章→](/zh-cn/detective/part2/chapter2.md)
