@@ -31,3 +31,4 @@
     * [Having Meal](/detective/part1/chapter1.md)
     * [Interrogation](/detective/part1/chapter2.md)
     * [Investigation](/detective/part1/chapter3.md)
+    * [Implication](/detective/part1/chapter4.md)
