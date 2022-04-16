@@ -29,3 +29,6 @@
     * [调查](/zh-cn/detective/part1/chapter3.md) 
     * [牵连](/zh-cn/detective/part1/chapter4.md)  
     * [幕后主谋](/zh-cn/detective/part1/chapter5.md) 
+    
+  * 核
+    * [密谋](/zh-cn/detective/part2/chapter1.md)
