@@ -35,4 +35,4 @@
 &#x3000;&#x3000;当然，我会继续挖坑给大家陷进去，相信我，everyone！
 
 
-> [←上一章](/zh-cn/detective/part1/chapter4.md)
+> [←上一章](/zh-cn/detective/part1/chapter4.md)  [下一章→](/zh-cn/detective/part2/chapter1.md)
