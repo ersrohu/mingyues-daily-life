@@ -30,4 +30,4 @@ Mingyue gets to Lingxiao’s community, but the elevator can’t move. Suddenly,
 
 But when Mingyue gets to the Lingxiao’s home, the door closed slightly. When he come in then he finds that the home is very messy, Lingxiao’s family hide themselves into the big closet and they are very frightened. When Mingyue open the door of the closet…
 
-> [←Previous Chapter](/detective/part1/chapter2.md)
+> [←Previous Chapter](/detective/part1/chapter2.md)  [Next Chapter→](/detective/part1/chapter4.md)
