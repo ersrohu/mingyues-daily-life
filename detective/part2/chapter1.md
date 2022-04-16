@@ -11,7 +11,7 @@ Ordered by superior, Mingyue has gone to Fuzekistan[^1] , the neighboring countr
 
 “Ah? If someone stole it then it will be let whole nuclear power plant happen nuclear leak!”
 
-“Fortunately, there was a staff who closed the main gate and let the nuclear power plant stopped running.”
+“Fortunately, there was a staff who closed the main electric switch and let the nuclear power plant stopped running.”
 
 Mingyue don’t say anything, but his brain is thinking fast, “That’s wrong, because if someone stole this then this couldn’t cool down, how did the suspect take it away? I remember that this thing cannot cool down fast, if somebody take it away, it will cause the whole city sensation, it’s not possible!” When Mingyue is thinking, he lets his brain stops thinking, suddenly. And it is night now, it’s very quiet around, and lets people cold back, but Mingyue hasn’t any thinking now.
 
