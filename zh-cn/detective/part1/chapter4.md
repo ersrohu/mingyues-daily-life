@@ -22,4 +22,5 @@
 
 &#x3000;&#x3000;“那我先走了，估计这件案子不结束，我就不能再跟你们联系，拜拜！”说完，明月就推门而去。可他离开时，却回头看了一眼，然而却看见了桃红那邪恶而神秘的一笑……
 
-> [←上一章](/zh-cn/detective/part1/chapter3.md)
+> [←上一章](/zh-cn/detective/part1/chapter3.md)  [下一章→](/zh-cn/detective/part1/chapter5.md)
+ 
