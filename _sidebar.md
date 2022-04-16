@@ -33,3 +33,6 @@
     * [Investigation](/detective/part1/chapter3.md)
     * [Implication](/detective/part1/chapter4.md)
     * [The Mastermind](/detective/part1/chapter5.md)
+    
+  * Nucleus
+    * [The Plot](/detective/part2/chapter1.md)
