@@ -34,4 +34,4 @@ This theme, *Team H*, it ends up here, please look forward to next case.
 
 Sure, I’ll make more themes and let you want to read them, believe me, everyone!
 
-> [←Previous Chapter](/detective/part1/chapter4.md)
+> [←Previous Chapter](/detective/part1/chapter4.md)  [Next Chapter→](/detective/part2/chapter1.md)
