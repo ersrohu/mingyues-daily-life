@@ -28,3 +28,4 @@
     * [审讯](/zh-cn/detective/part1/chapter2.md)
     * [调查](/zh-cn/detective/part1/chapter3.md) 
     * [牵连](/zh-cn/detective/part1/chapter4.md)  
+    * [幕后主谋](/zh-cn/detective/part1/chapter5.md) 
