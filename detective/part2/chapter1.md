@@ -23,4 +23,4 @@ There almost aren’t anyone on the road in the night, but the dark streetlights
 
 [^1]: Fuzekistan: a fictitious country in this novel – note from translator.
 
-> [←Previous Chapter](/detective/part1/chapter5.md)
+> [←Previous Chapter](/detective/part1/chapter5.md)  [Next Chapter→](/detective/part2/chapter2.md)
