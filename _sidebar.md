@@ -36,4 +36,4 @@
     
   * Nucleus
     * [The Plot](/detective/part2/chapter1.md)
-    * [The Milk](/detective/part2/chapter1.md)
+    * [The Milk](/detective/part2/chapter2.md)
