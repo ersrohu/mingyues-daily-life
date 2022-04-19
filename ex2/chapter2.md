@@ -47,7 +47,7 @@ Taohong is following Mingyue and go to -3 floor to get on the car.
 
 “I bought another car.”
 
-After they get on the car, Mingyue drive out the community, then they drive to Qingtai Avenue.
+After they get on the car, Mingyue drive out the apartment complex, then they drive to Qingtai Avenue.
 
 When Mingyue is driving, they meet the Porsche 911 drives a speed of 100 kilometers per hours again.
 
