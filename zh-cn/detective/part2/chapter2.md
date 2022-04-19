@@ -26,4 +26,4 @@
 
 [^2]: 原文如此。作者说放射性物质并没有渗入到纯牛奶里面去，它是在包装外部残留的一些毫克级的粉末，由那个偷走核燃料棒的人粘上去的。
 
-> [←上一章](/zh-cn/detective/part2/chapter1.md)
+> [←上一章](/zh-cn/detective/part2/chapter1.md)  [下一章→](/zh-cn/detective/part2/chapter3.md)
