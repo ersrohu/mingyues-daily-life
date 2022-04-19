@@ -1,8 +1,8 @@
 # Chapter 7
 
-At the night of Taohong’s birthday, both Mingyue and Lingxiao come to here together. However, there’s a question which lets Mingyue feel annoyed. Because Lingxiao invite Taohong to have meal, but the restaurant is not near the Guicheng Community, however, they want to have meal at West Loop Road Restaurant.
+At the night of Taohong’s birthday, both Mingyue and Lingxiao come to here together. However, there’s a question which lets Mingyue feel annoyed. Because Lingxiao invite Taohong to have meal, but the restaurant is not near the Guicheng Apartment Complex, however, they want to have meal at West Loop Road Restaurant.
 
-When Mingyue know that they want to have the meal at there then he phones to 4S shop. But there’s luck in misfortune which is the 4S shop didn’t deliver the car to near the Guicheng Community, and the restaurant is at near the 4S shop, maybe just some kilometers.
+When Mingyue know that they want to have the meal at there then he phones to 4S shop. But there’s luck in misfortune which is the 4S shop didn’t deliver the car to near the Guicheng Apartment Complex, and the restaurant is at near the 4S shop, maybe just some kilometers.
 
 “Is the waitress? I want to change the address.”
 
