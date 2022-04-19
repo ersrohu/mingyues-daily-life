@@ -40,7 +40,7 @@ After the phone hangs up, Mingyue drive his Hongqi H9 luxury car and go to the 4
 
 “That… can I change the address?” Asked Mingyue.
 
-“I want to change to near Guicheng Estate, No.17, Furong Road, OK?”
+“I want to change to near Guicheng Housing Estate, No.17, Furong Road, OK?”
 
 “It seems OK, let me look.”
 
