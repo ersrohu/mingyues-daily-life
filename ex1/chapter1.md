@@ -10,7 +10,7 @@ One day, Mingyue phones Lingxiao.
 
 “OK! Why do you think that you want to invite us to have meal, suddenly?”
 
-“Oh, there’s a new chaffy dish restaurant near the food street at my community, I want to try it with you.”
+“Oh, there’s a new chaffy dish restaurant near the food street at our apartment complex, I want to try it with you.”
 
 “Try it? Is it northern or southern chaffy dish?”
 
