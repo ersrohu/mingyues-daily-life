@@ -8,7 +8,7 @@
 
 “OK. Where will we go?”
 
-“Go to the food street near his community.”
+“Go to the food street near his apartment complex.”
 
 “Well. What will we have?”
 
