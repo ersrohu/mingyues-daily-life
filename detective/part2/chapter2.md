@@ -26,4 +26,4 @@ Mingyue smiles evilly…
 
 [^2]: The author told me that the radioactive matter wasn’t permeated into the milk, there is some powder of the radioactive matter on a face of the milk box, that powder was put on it by one who was wearing gloves and he touched it, so the powder kept here – note from translator.
 
-> [←Previous Chapter](/detective/part2/chapter1.md)
+> [←Previous Chapter](/detective/part2/chapter1.md)  [Next Chapter→](/detective/part2/chapter3.md)
