@@ -33,3 +33,4 @@
   * 核
     * [密谋](/zh-cn/detective/part2/chapter1.md)
     * [牛奶](/zh-cn/detective/part2/chapter2.md)
+    * [嫌疑人：笑](/zh-cn/detective/part2/chapter3.md)
