@@ -16,7 +16,7 @@ Suddenly, Mingyue seems think something, then he phones Lingxiao again.
 
 “Well, nothing, I just want to ask it.” (Lingxiao Inner OS: Ah, it may not be nothing, it seems that he wants to get Taohong with something. However, what does he want to present Taohong?)
 
-“At Room 1002, Block 7, Guicheng Community, No.17, Furong Road.”
+“At Room 1002, Block 7, Guicheng Housing Estate, No.17, Furong Road.”
 
 “Are you at it with her?”
 
@@ -40,7 +40,7 @@ After the phone hangs up, Mingyue drive his Hongqi H9 luxury car and go to the 4
 
 “That… can I change the address?” Asked Mingyue.
 
-“I want to change to near Guicheng Community, No.17, Furong Road, OK?”
+“I want to change to near Guicheng Estate, No.17, Furong Road, OK?”
 
 “It seems OK, let me look.”
 
