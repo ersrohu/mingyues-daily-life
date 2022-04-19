@@ -26,7 +26,7 @@ Then Mingyue boots the computer, he finds that the virus disappeared. He opens t
 
 “Of course. Anyway, I can’t reason it now. Let me go, please wait for me!” Then Mingyue hangs the phone up.
 
-Mingyue gets to Lingxiao’s community, but the elevator can’t move. Suddenly, the speaker in the elevator says, “Hello, gentleman, please release Xie Xun from the prison, and declare to everyone, yourself is the drug addict, Xie Xun is only a scapegoat! Else, ho-ho, your son will go to die.” Then the elevator gets normal.
+Mingyue gets to Lingxiao’s apartment complex, but the elevator can’t move. Suddenly, the speaker in the elevator says, “Hello, gentleman, please release Xie Xun from the prison, and declare to everyone, yourself is the drug addict, Xie Xun is only a scapegoat! Else, ho-ho, your son will go to die.” Then the elevator gets normal.
 
 But when Mingyue gets to the Lingxiao’s home, the door closed slightly. When he come in then he finds that the home is very messy, Lingxiao’s family hide themselves into the big closet and they are very frightened. When Mingyue open the door of the closet…
 
