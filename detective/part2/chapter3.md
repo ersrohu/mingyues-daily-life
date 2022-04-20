@@ -46,4 +46,4 @@ In the night, the President visits Mingyue.
 
 “Goodbye!”
 
-> [←Previous Chapter](/detective/part2/chapter2.md)
+> [←Previous Chapter](/detective/part2/chapter2.md)  [Next Chapter→](/detective/part2/chapter4.md)
