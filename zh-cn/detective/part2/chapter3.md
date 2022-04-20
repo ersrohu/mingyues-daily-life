@@ -46,4 +46,4 @@
 
 &#x3000;&#x3000;“再见！”
 
-> [←上一章](/zh-cn/detective/part2/chapter2.md)  [下一章→](/zh-cn/detective/part2/chapter2.md)
+> [←上一章](/zh-cn/detective/part2/chapter2.md)  [下一章→](/zh-cn/detective/part2/chapter4.md)
