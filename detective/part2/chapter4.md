@@ -19,7 +19,7 @@ Now the investigation group are playing video games and goofing off.
 ## Author’s word
 This theme was made by a reader who provided the ideas to me and let me write this, I can only say so that I haven’t much knowledge of nuclear science, so I just end this up hurriedly.
 
-I believe that there must be some readers want to make complaints for that I wrote this too nonsensically, it can only say so that the author hasn’t the knowledge, ah! I’ll read more books and gain more knowledge. Or else the readers will start to make complaints again.
+I believe that there must be some readers want to make complaints for that I wrote this too nonsensically, it can only say so that the author hasn’t the knowledge, ah! I’ll read more books and gain more knowledge. Or else the readers will have started to make complaints again.
 
 Next theme preview: a missing case of a person.
 
