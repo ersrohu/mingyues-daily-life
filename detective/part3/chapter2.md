@@ -26,4 +26,5 @@ By this time, Zhang Beihai run into here, “Mingyue, here are your letters!”
 
 When Zhang Beihai leaves, he smiles slightly.
 
-> [←Previous Chapter](/detective/part3/chapter1.md)
+> [←Previous Chapter](/detective/part3/chapter1.md)  [Next Chapter→](/detective/part3/chapter3.md)
+ 
