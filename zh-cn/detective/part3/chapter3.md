@@ -10,4 +10,4 @@
   
 &#x3000;&#x3000;明月看见了一位同事，同事招了招手，明月却看见同事手臂上……
 
-> [←上一章](/zh-cn/detective/part3/chapter2.md)
+> [←上一章](/zh-cn/detective/part3/chapter2.md)  [下一章→](/zh-cn/detective/part3/chapter4.md)
