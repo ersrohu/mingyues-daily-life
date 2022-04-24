@@ -24,4 +24,4 @@
 
 &#x3000;&#x3000;下篇预告：失踪案。
 
-> [←上一章](/zh-cn/detective/part2/chapter3.md)  [下一章→](/zh-cn/detective/part2/chapter3.md)
+> [←上一章](/zh-cn/detective/part2/chapter3.md)  [下一章→](/zh-cn/detective/part3/chapter1.md)
