@@ -66,4 +66,4 @@
   
 &#x3000;&#x3000;明月开着车赶了过去，最终，把谢合抓捕了。
 
->[←上一章](/zh-cn/detective/part2/chapter4.md)
+> [←上一章](/zh-cn/detective/part2/chapter4.md)  [←上一章](/zh-cn/detective/part3/chapter2.md)
