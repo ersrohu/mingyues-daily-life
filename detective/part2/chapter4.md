@@ -23,4 +23,4 @@ I believe that there must be some readers want to make complaints for that I wro
 
 Next theme preview: a missing case of a person.
 
-> [←Previous Chapter](/detective/part2/chapter3.md)
+> [←Previous Chapter](/detective/part2/chapter3.md)  [Next Chapter→](/detective/part3/chapter1.md)
