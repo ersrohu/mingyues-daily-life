@@ -41,3 +41,4 @@
     * [The Investigation Group](/detective/part2/chapter4.md)
   * Missing Xie He
     * [River](/detective/part3/chapter1.md)
+    * [Xie He](/detective/part3/chapter2.md)
