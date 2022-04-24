@@ -16,7 +16,7 @@ After taking photo, Mingyue send Haotian home, then he comes back the police sta
 
 It’s afternoon now, the colleagues have already come back the office.
 
-Mingyue opens the household registration information database in computer, then he uploads the photos. But he finds that he has 96% similarity to Xie He. Then he looks all, he only has 37% similarity to Haotian.
+Mingyue opens the household registration information database in computer, then he uploads the photos. But Mingyue finds that he has 96% similarity to Xie He. Then he looks all, he only has 37% similarity to Haotian.
 
 “That’s not very correct, everyone know that Haotian lie to me. However, he’s already known that he will be carried, but he still wanted to do this, isn’t this a gift for free?” Mingyue feels very doubtful.
 
