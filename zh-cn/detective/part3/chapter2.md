@@ -26,4 +26,4 @@
   
 &#x3000;&#x3000;章北海走时，他的一侧嘴角开始微微上扬。
   
-> [←上一章](/zh-cn/detective/part3/chapter1.md)
+> [←上一章](/zh-cn/detective/part3/chapter1.md)  [下一章→](/zh-cn/detective/part3/chapter3.md)
