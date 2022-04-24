@@ -6,7 +6,7 @@
 
 “Have you seen this person?” Says Mingyue then he takes out a photo. “This person is Xie He, he has been missing for some days, suddenly. Have you seen any person who like this?”
 
-“No, I haven’t”
+“No, I haven’t.”
 
 “OK, thank you! Thank you for your cooperation, let’s go to the gate and take a photo for you, OK?” Mingyue says very politely.
 
