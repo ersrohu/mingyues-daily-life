@@ -42,7 +42,7 @@ Mingyue has not ideas yet. Wait, who is the corpse? What’s the relationship wi
 
 Mingyue run back the police station at once, boots computer and open the household registration information searching system.
 
-“Well, according to the face, is this person…Xie He? Why do I think that he has a relationship with Xie Xun?” Mingyue searches it, he finds that they are a pair of cousins! But in the household registration information searching system, it doesn’t show he is deceased, the head portrait doesn’t turn gray, it means that he is alive yet. But he matches many another people, only Xie He has 87% similarity to him. In additional, there also is a person who has 2% similarity to him but who is deceased yet.
+“Well, according to the face, is this person…Xie He? Why do I think that he has a relationship with Xie Xun?” Mingyue searches it, he finds that they are a pair of cousin brothers! But in the household registration information searching system, it doesn’t show he is deceased, the head portrait doesn’t turn gray, it means that he is alive yet. But he matches many another people, only Xie He has 87% similarity to him. In additional, there also is a person who has 2% similarity to him but who is deceased yet.
 
 “But there isn’t any blood in the image, and it was taken at 10 o’clock in the morning.
 
