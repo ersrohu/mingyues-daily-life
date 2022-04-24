@@ -66,4 +66,4 @@ Mingyue hangs the phone and drives the car to the Qingtai Avenue immediately. He
 
 Mingyue drives car to there quickly, finally, he arrested Xie He.
 
-> [←Previous Chapter](/detective/part2/chapter4.md)
+> [←Previous Chapter](/detective/part2/chapter4.md)  [Next Chapter→](/detective/part3/chapter2.md)
