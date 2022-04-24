@@ -26,7 +26,7 @@ It’s midday now, and it’s silent around.
 
 The policeman lets Mingyue look at the photos, Mingyue doesn’t say anything, just the expression is very strange, he looks not very good.
 
-Mingyue look around nearby, there aren’t any suspicious samples and suspicious people.
+Mingyue looks around nearby here again, there aren’t any suspicious samples and suspicious people.
 
 Mingyue lets the policeman send the photos to him. After, Mingyue send these photos to his friend who helped Mingyue to process images before. A few moments later, his friend replies to him.
 
