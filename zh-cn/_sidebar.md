@@ -37,3 +37,4 @@
     * [调查组](/zh-cn/detective/part2/chapter4.md)
   * 失踪的谢合
     * [河](/zh-cn/detective/part3/chapter1.md)
+    * [谢合](/zh-cn/detective/part3/chapter2.md)
