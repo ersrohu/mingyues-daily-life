@@ -10,4 +10,4 @@ On the next day, after Mingyue get to office, then he boots the computer and ope
 
 Mingyue sees a colleague and he wave, but Mingyue sees that on his arm there is…
 
-> [←Previous Chapter](/detective/part3/chapter2.md)
+> [←Previous Chapter](/detective/part3/chapter2.md)  [Next Chapter→](/detective/part3/chapter4.md)
