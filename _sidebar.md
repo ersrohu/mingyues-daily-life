@@ -43,3 +43,4 @@
     * [River](/detective/part3/chapter1.md)
     * [Xie He](/detective/part3/chapter2.md)
     * [The Police Station](/detective/part3/chapter3.md)
+    * [The Colleague](/detective/part3/chapter4.md)
