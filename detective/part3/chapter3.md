@@ -8,6 +8,6 @@ On the next day, after Mingyue get to office, then he boots the computer and ope
 
 “Too few clues, unable to solve the case, ah!” Mingyue feels that he hasn’t ideas. “I want to go out and get calm.”
 
-Mingyue sees a colleague and he wave, but Mingyue sees that on his arm there is…
+Mingyue sees a colleague and he waves to him, but Mingyue sees that on his arm there is…
 
 > [←Previous Chapter](/detective/part3/chapter2.md)  [Next Chapter→](/detective/part3/chapter4.md)
