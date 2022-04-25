@@ -34,7 +34,7 @@ When he arrived Xie He’s home, but he sees that Xie He is sitting on the sofa 
 
 ## Author’s word
 
-Hmm, this theme, *the Case of Missing Xie He*, ends up here. It seems that the author has written too many irrelated things.
+Hmm, this theme, *the Case of Missing Xie He*, ends up here. It seems that the author has written a lot of nonsense.
 
 Next case preview: a case of murder.
 
