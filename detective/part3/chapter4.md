@@ -38,4 +38,4 @@ Hmm, this theme, *the Case of Missing Xie He*, ends up here. It seems that the a
 
 Next case preview: a case of murder.
 
-> [←Previous Chapter](/detective/part3/chapter3.md)
+> [←Previous Chapter](/detective/part3/chapter3.md)  [Next Chapter→](/detective/part4/chapter1.md)
