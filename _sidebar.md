@@ -44,3 +44,5 @@
     * [Xie He](/detective/part3/chapter2.md)
     * [The Police Station](/detective/part3/chapter3.md)
     * [The Colleague](/detective/part3/chapter4.md)
+  * Murder Case of Town Mayor
+    * [Fluorescent Tube](/detective/part4/chapter1.md)
