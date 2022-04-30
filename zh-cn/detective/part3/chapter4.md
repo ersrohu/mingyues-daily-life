@@ -38,4 +38,4 @@
   
 &#x3000;&#x3000;下一篇案子类型预告：谋杀案。
   
-> [←上一章](/zh-cn/detective/part3/chapter3.md)
+> [←上一章](/zh-cn/detective/part3/chapter3.md)  [下一章→](/zh-cn/detective/part4/chapter1.md)
