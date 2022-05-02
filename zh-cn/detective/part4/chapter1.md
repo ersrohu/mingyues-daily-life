@@ -38,4 +38,4 @@
 
 &#x3000;&#x3000;次日，明月却接到了一个更让人震惊的消息……
 
-> [←上一章](/zh-cn/detective/part3/chapter4.md)
+> [←上一章](/zh-cn/detective/part3/chapter4.md)  [下一章→](/zh-cn/detective/part4/chapter2.md)
