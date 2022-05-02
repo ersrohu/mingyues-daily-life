@@ -36,4 +36,4 @@ Mingyue feels that is hard to investigate in the evening, then he leaves quickly
 
 On the next day, Mingyue gets some more shocking information…
 
-> [←Previous Chapter](/detective/part3/chapter4.md)
+> [←Previous Chapter](/detective/part3/chapter4.md)  [Next Chapter→](/detective/part4/chapter2.md)
