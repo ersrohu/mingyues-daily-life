@@ -43,3 +43,4 @@
   * 镇长谋杀案
     * [荧光灯管](/zh-cn/detective/part4/chapter1.md)
     * [小镇](/zh-cn/detective/part4/chapter2.md)
+    * [布络](/zh-cn/detective/part4/chapter3.md)
