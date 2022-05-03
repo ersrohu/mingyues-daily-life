@@ -47,3 +47,4 @@
   * Murder Case of Town Mayor
     * [Fluorescent Tube](/detective/part4/chapter1.md)
     * [The Little Town](/detective/part4/chapter2.md)
+    * [Buluo](/detective/part4/chapter3.md)
