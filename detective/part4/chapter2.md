@@ -12,4 +12,4 @@ What shocks him is that the woman’s cause of death is completely same to the m
 
 “The most important thing is to find the next victim, but the little town is big, there are 70 thousand people, how to find?” As he is confusing, he remembers suddenly that both of first two victims relate to the leaders of this town. “Then the next target should be the Deputy Town Mayor.”
 
-> [←Previous Chapter](/detective/part4/chapter1.md)
+> [←Previous Chapter](/detective/part4/chapter1.md)  [Next Chapter→](/detective/part4/chapter3.md)
