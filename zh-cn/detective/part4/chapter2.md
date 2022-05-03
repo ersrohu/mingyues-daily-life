@@ -12,4 +12,4 @@
 
 &#x3000;&#x3000;“现在的重要事情是赶快找出下一个受害者，可小镇这么大，足足有70000人，怎么找啊？”正在明月疑惑之际，他突然想起，前两个受害者都是关于小镇领导人的。“那下一个目标应该就是副镇长了。”
 
-> [←上一章](/zh-cn/detective/part4/chapter1.md)
+> [←上一章](/zh-cn/detective/part4/chapter1.md)  [下一章→](/zh-cn/detective/part4/chapter3.md)
