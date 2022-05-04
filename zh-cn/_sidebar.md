@@ -40,7 +40,7 @@
     * [谢合](/zh-cn/detective/part3/chapter2.md)
     * [警局](/zh-cn/detective/part3/chapter3.md)
     * [同事](/zh-cn/detective/part3/chapter4.md)
-  * 镇长谋杀案
+  * 兰曼镇谋杀案
     * [荧光灯管](/zh-cn/detective/part4/chapter1.md)
     * [小镇](/zh-cn/detective/part4/chapter2.md)
     * [布络](/zh-cn/detective/part4/chapter3.md)
