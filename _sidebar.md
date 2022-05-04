@@ -44,7 +44,7 @@
     * [Xie He](/detective/part3/chapter2.md)
     * [The Police Station](/detective/part3/chapter3.md)
     * [The Colleague](/detective/part3/chapter4.md)
-  * Murder Case of Town Mayor
+  * Murder Case in Lanman Town
     * [Fluorescent Tube](/detective/part4/chapter1.md)
     * [The Little Town](/detective/part4/chapter2.md)
     * [Buluo](/detective/part4/chapter3.md)
