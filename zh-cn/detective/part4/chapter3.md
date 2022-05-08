@@ -26,4 +26,4 @@
   
 &#x3000;&#x3000;明月走出了政府，但却还有一个疑问：为什么这起案件的每一个受害者都是在荧光灯下死亡的，是什么信号或暗示吗？
 
-> [←上一章](/zh-cn/detective/part4/chapter2.md) 
+> [←上一章](/zh-cn/detective/part4/chapter2.md)  [下一章→](/zh-cn/detective/part4/chapter2.md) 
