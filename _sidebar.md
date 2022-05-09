@@ -39,7 +39,7 @@
     * [The Milk](/detective/part2/chapter2.md)
     * [Suspect: the Evil Smile](/detective/part2/chapter3.md)
     * [The Investigation Group](/detective/part2/chapter4.md)
-  * Missing Xie He
+  * Missing Case of Xie He
     * [River](/detective/part3/chapter1.md)
     * [Xie He](/detective/part3/chapter2.md)
     * [The Police Station](/detective/part3/chapter3.md)
@@ -48,3 +48,4 @@
     * [Fluorescent Tube](/detective/part4/chapter1.md)
     * [The Little Town](/detective/part4/chapter2.md)
     * [Buluo](/detective/part4/chapter3.md)
+    * [Mistaken Solution](/detective/part4/chapter4.md)
