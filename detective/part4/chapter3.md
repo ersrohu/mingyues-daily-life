@@ -28,4 +28,4 @@ Suddenly, Mingyue finds that there are many letters in the garbage can, and that
 
 Mingyue goes out the Government, but there is a doubt: why did each victim of this case die under a fluorescent lamp, is this a signal or implicature?
 
-> [←Previous Chapter](/detective/part4/chapter2.md)
+> [←Previous Chapter](/detective/part4/chapter2.md)  [Next Chapter→](/detective/part4/chapter4.md)
