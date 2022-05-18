@@ -11,7 +11,13 @@
 ## 鸣谢
 
 作者：29个小云吞（Huang S.）  
+
 出版人：25克钍铀钚合金（ERS_Rohu, Luo H.）   
+
 提供素材：29个小云吞、25克钍铀钚合金、章北海   
+
 电子版提供：29个小云吞、25克钍铀钚合金   
+
 读者（线下）：35个googolplex（Fan X.）、19块黄土木片（Guo E.）、章北海（An S.）、htc（Huo T.）、日记里的神明（Li J.）、25克钍铀钚合金、函眠（Fang H.）、函风（Qin L.）   
+
+> [←上一章](/zh-cn/detective/part4/chapter4.md)
