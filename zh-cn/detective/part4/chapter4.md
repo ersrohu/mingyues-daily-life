@@ -46,4 +46,4 @@
 
 作者在他的小学里的这一个学期即将结束了，感谢读者们的一路陪伴。这一个案子也是最后的案子了，感谢读者们的支持！
 
-> [←上一章](/zh-cn/detective/part4/chapter3.md)
+> [←上一章](/zh-cn/detective/part4/chapter3.md)  [下一章→](/zh-cn/detective/credits.md)
