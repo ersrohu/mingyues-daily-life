@@ -46,4 +46,4 @@ Mingyue walks to there and hugs up the orange cat. The orange cat instead follow
 
 This semester in author's primary school is coming to the end, thanks for the readers’ company. This theme is the last theme, thanks for the readers’ support!
 
-> [←Previous Chapter](/detective/part4/chapter3.md)
+> [←Previous Chapter](/detective/part4/chapter3.md)  [Next Chapter→](/detective/credits.md)
