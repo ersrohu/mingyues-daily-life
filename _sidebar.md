@@ -49,3 +49,4 @@
     * [The Little Town](/detective/part4/chapter2.md)
     * [Buluo](/detective/part4/chapter3.md)
     * [Mistaken Solution](/detective/part4/chapter4.md)
+  * [Postscripts & Credits](/detective/credits.md)
