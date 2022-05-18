@@ -45,3 +45,4 @@
     * [小镇](/zh-cn/detective/part4/chapter2.md)
     * [布络](/zh-cn/detective/part4/chapter3.md)
     * [错误的做法](/zh-cn/detective/part4/chapter4.md)
+  * [后记及鸣谢](/zh-cn/detective/credits.md)
