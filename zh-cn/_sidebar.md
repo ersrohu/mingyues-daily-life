@@ -9,7 +9,7 @@
   * [第七章](/zh-cn/part1/chapter7.md)
 
 * 第二部分
-  * [为什么我们遗失了第二部分？](/zh-cn/part2/missing.md) 
+  * [找到了，但是懒得搞上来了](/zh-cn/part2/missing.md) 
 
 * 番外一之凌霄篇
   * [第一章](/zh-cn/ex1/chapter1.md) 
