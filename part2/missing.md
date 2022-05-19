@@ -1,9 +1,7 @@
-# Why have we lost part 2?
+# It has been found, but I don't want to upload it.
 
-The author, SmallYT_29, is a very odd people. He likes using a as **small** as notebook to write novel, daily, etc. Because he can put the notebook in his pocket and write things anywhere.
+Part 2 has been found, but I'm too lazy, so forget it. That's a troublesome thing, why bother?
 
-However, portability and ease of loss are proportional, so he's lost the notebook in a big family-clean-up.
-
-Sure, we will upload them if we find them, wait for us, please.
+Full PDF version download: [Simplified Chinese](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_zh_cn.pdf), [English](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_en_us.pdf)
 
 > [←Previous Chapter](/part1/chapter7.md)  [Next Chapter→](/ex1/chapter1.md)
