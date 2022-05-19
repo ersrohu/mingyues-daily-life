@@ -9,6 +9,7 @@
 
 [3297957467@qq.com](mailto:3297957467@qq.com)
 
+PDF版本已可供下载：[简体中文版](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_zh_cn.pdf)；[英文版](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_zh_cn.pdf)。
 ## 我如何制作
 
 我使用[Docsify](https://docsify.js.org/)生成这些文档。 
