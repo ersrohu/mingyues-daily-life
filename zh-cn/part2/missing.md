@@ -1,9 +1,7 @@
-# 为什么我们丢失了第二部分？
+# 找到了，但是懒得搞上来了
 
-作者——SmallYT_29——是个很奇怪的人。他喜欢拿小本本记录文字，因为这样他在随时随地都可以把自己的想法什么的在文字中表现出来。但是，便携性和易丢失性是成正比的，这也导致了他遗失了用来写第二部分的小本子。
+第二部分找到了，但我太懒了，就算了。搞上来也麻烦，何必呢？
 
-所以，很抱歉我们没有第二部分可以展示给你们看，也许这就是我们的遗憾吧。
-
-当然，如果我们找到了这个小本本，我们一定会上载到这里的。
+完整版PDF下载：[简体中文](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_zh_cn.pdf)、[英文](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_en_us.pdf)
 
 > [←上一章](/zh-cn/part1/chapter7.md)  [下一章→](/zh-cn/ex1/chapter1.md)
