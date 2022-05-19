@@ -7,7 +7,7 @@ You also can contact author with the email below:
 
 [3297957467@qq.com](mailto:3297957467@qq.com)
 
-And, in additional, a PDF version of this novel is available now, you can download [Simplified Chinese Version](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_zh_cn.pdf) or [English Version](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_en_us.pdf)
+And, in additional, a PDF version of this novel is available now, you can download [Simplified Chinese Version](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_zh_cn.pdf) or [English Version](https://github.com/ersrohu/mingyues-daily-life/raw/main/Mingyue_en_us.pdf).
 ## How do I create this
 
 I use the [Docsify](https://docsify.js.org/) to generate this novel. 
